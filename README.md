@@ -1,4 +1,12 @@
+Requirements:
+Tensorflow
+Quandl
+Sklearn
+Pandas
+
 This is a completed task for adding an experiment to Tensorboard.dev
+
+In order to consistently run this code, on must have an API key that is registered in Quandl's database.
 
 main.py is the Python script that contains the code that retrieves the information from Quandl
 and has the Tensorflow model.
