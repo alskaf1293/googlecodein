@@ -4,7 +4,7 @@ Quandl
 Sklearn
 Pandas
 
-4/26/2021 edit: This is an old project that I wrote for a Google CodeIn competition a couple of years back. There aren't any demonstrations, but this was supposed to be a stock trading algorithm. Anyways, I guess you could look at this to take a look my tensorflow/data-preprocessing knowledge, but the dependencies are probably so outdated that it probably wouldn't even be worth cleaning up.
+4/26/2021 edit: This is an old project that I wrote for a Google CodeIn competition a couple of years back. There aren't any demonstrations, but this was supposed to be a stock trading algorithm. Anyways, I guess you could look at this to take a look my tensorflow/data-preprocessing knowledge, but the dependencies are probably so outdated that it probably wouldn't even be worth cleaning up. I'm just keeping this here to demonstrate my initial attempts to apply my machine learning knowledge to the real world, but is by no means a highlight project.
 
 This is a completed task for adding an experiment to Tensorboard.dev
 
