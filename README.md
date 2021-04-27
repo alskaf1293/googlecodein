@@ -4,6 +4,8 @@ Quandl
 Sklearn
 Pandas
 
+4/26/2021 edit: This is an old project that I wrote for a Google CodeIn competition a couple of years back. There aren't any demonstrations, but this was supposed to be a stock trading algorithm. Anyways, I guess you could look at this to take a look my tensorflow/data-preprocessing knowledge, but the dependencies are probably so outdated that it probably wouldn't even be worth cleaning up.
+
 This is a completed task for adding an experiment to Tensorboard.dev
 
 In order to consistently run this code, on must have an API key that is registered in Quandl's database.
